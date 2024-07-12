@@ -1,3 +1,9 @@
+body {
+  font-family: "Noto Sans JP" 　, Helvetica, arial, sans-serif;
+}
+
+/*
+
 a {
   font-weight: 500;
   color: #646cff;
@@ -78,4 +84,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
